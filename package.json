@@ -23,7 +23,7 @@
     "@devvit/web": "0.15.4",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
-    "@hono/node-server": "2.1.6",
+    "@hono/node-server": "2.1.11",
     "@mui/material": "^9.6.0",
     "devvit": "0.15.4",
     "hono": "4.13.17",
